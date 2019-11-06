@@ -54,7 +54,7 @@ export default {
     props: {
         value: String,
         placeholder: String,
-        readonly: Boolean,
+        readOnly: Boolean,
         formats: Array,
         editorStyle: null
     },
